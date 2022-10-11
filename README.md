@@ -1,5 +1,7 @@
 # angular-star-rating  
 
+### Source: Building Reusable Angular Components Using Angular CLI - Ambli, Shreeharsh  
+
 ## Built With   
 * [TypeScript](https://www.typescriptlang.org/docs/// "TypeScript documentation")  
 * [Angular](https://angular.io/docs// "Angular Documentation")  
